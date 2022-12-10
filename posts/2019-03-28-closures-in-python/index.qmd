@@ -1,0 +1,5 @@
+---
+author: "Thadryan"
+title: "Closures in Python"
+date: "2019-03-28"
+---

@@ -1,0 +1,5 @@
+---
+author: "Thadryan"
+title: "Zip and dict"
+date: "2017-12-20"
+---

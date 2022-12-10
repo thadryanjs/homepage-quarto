@@ -1,0 +1,5 @@
+---
+author: "Thadryan"
+title: "Perl for the impatient"
+date: "2018-10-04"
+---

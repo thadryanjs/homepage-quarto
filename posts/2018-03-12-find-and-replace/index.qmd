@@ -1,0 +1,5 @@
+---
+author: "Thadryan"
+title: "Find and replace in Python"
+date: "2018-03-12"
+---

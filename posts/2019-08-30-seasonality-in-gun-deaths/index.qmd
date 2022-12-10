@@ -1,0 +1,5 @@
+---
+author: "Thadryan"
+title: "Seasonality in gun deaths"
+date: "2019-08-30"
+---

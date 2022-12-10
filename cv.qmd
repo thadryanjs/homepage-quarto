@@ -9,6 +9,6 @@ title: "CV"
 
 <p>	
 	<p>
-		<embed src="cv-with-resume.pdf" type="application/pdf"  width="1000" height="2550">
+		<embed src="assets/cv-with-resume.pdf" type="application/pdf"  width="1000" height="2550">
 	</p>
 </p>

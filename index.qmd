@@ -1,7 +1,7 @@
 ---
 title: "About"
 layout: article
-image: pic.jpg
+image: assets/pic.jpg
 about:
   template: jolla 
   links:
