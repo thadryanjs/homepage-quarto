@@ -21,6 +21,28 @@ div.category {
     color: rgb(204, 204, 204); /* "Hi there!... */
 }
 
+div.cell-output-display {
+    border:  1px solid black;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+div pre  {
+     color: #5E5E5E;
+}
+
+div pre code  {
+    color: #5E5E5E
+}
+
+
+
+text {
+    
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    color: rgb(204, 204, 204); /* "Hi there!... */
+}
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
